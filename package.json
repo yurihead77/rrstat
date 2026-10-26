@@ -1,0 +1,11 @@
+{
+  "name": "metrika-weekly",
+  "private": true,
+  "description": "Local tests only. The program that runs in Google is Apps Script in src/.",
+  "scripts": {
+    "test": "node --test"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}

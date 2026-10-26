@@ -1,0 +1,5 @@
+# Patterns are relative to rootDir (src) in clasp 3.x.
+# Ignore everything, then keep only the manifest and Apps Script sources.
+**/**
+!appsscript.json
+!*.js
